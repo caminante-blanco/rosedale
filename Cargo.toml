@@ -4,3 +4,9 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+anyhow = "1.0.100"
+cpal = "0.16.0"
+io = "0.0.2"
+midir = "0.10.3"
+rtrb = "0.3.2"
+wmidi = "4.0.10"
